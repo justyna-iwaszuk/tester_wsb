@@ -1,0 +1,15 @@
+
+Tracing route to dns.google [8.8.8.8]
+over a maximum of 30 hops:
+
+  1    32 ms    10 ms     5 ms  10.10.0.1 
+  2    61 ms    19 ms     3 ms  156.17.55.254 
+  3    24 ms    80 ms     9 ms  wct2-pkp.wask.wroc.pl [156.17.254.69] 
+  4     4 ms     3 ms     1 ms  centrum-wct2.wask.wroc.pl [156.17.254.71] 
+  5     9 ms     6 ms     6 ms  z-wroclawia.poznan-gw3.10gb.rtr.pionier.gov.pl [212.191.224.105] 
+  6    11 ms    15 ms    52 ms  72.14.203.178 
+  7    13 ms    21 ms    64 ms  142.251.253.219 
+  8    37 ms    15 ms    13 ms  209.85.252.109 
+  9    13 ms    10 ms    54 ms  dns.google [8.8.8.8] 
+
+Trace complete.
