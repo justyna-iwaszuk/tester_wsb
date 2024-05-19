@@ -43,5 +43,5 @@ Zalogowanie
 Successful login
    Zalogowanie  ${uzytkownik}    ${haslo}
     sleep  2
-   wait until element is visible  xpath://*[@id="post-8"]/div[2]/div/p[1]/a
+   wait until element is visible  xpath://*[@id="post-8"]/div/div/div/p[1]/a
     page should contain
